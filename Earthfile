@@ -1,3 +1,4 @@
+VERSION 0.7
 
 jsdos:
     FROM node:16-alpine
